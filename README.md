@@ -26,3 +26,4 @@ Aula instrucional do Curso de programador full stack - Senai - Turma 18
 
 <img src="https://cdn.pixabay.com/photo/2016/10/18/19/40/anatomy-1751201_960_720.png"/>
 
+Lembrei do comando: git status
